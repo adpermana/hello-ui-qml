@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>login.qml</file>
+        <file>home.qml</file>
+        <file>call.qml</file>
+        <file>testing.qml</file>
+        <file>settings.qml</file>
+        <file>contact.qml</file>
+        <file>server.qml</file>
+        <file>account.qml</file>
+        <file>codec.qml</file>
+        <file>crypto.qml</file>
+        <file>images/lemsaneg.png</file>
+        <file>images/addressbook.png</file>
+        <file>images/edit.jpeg</file>
+        <file>images/end_call.png</file>
+        <file>images/make_call.png</file>
+        <file>images/phone.png</file>
+        <file>images/setting.png</file>
+        <file>images/crypto.png</file>
+        <file>images/back.png</file>
+        <file>images/call.png</file>
+        <file>images/images.jpeg</file>
+        <file>images/account.png</file>
+        <file>images/account2.png</file>
+        <file>images/codec.png</file>
+        <file>images/server.png</file>
+        <file>calling.qml</file>
+        <file>images/accept.png</file>
+        <file>images/reject.png</file>
+        <file>images/user.png</file>
+    </qresource>
+</RCC>
